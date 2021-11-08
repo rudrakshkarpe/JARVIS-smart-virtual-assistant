@@ -1,4 +1,3 @@
-##under constuction
-##Looking forward to modify and taking it to the next level.
+### updated verion coming soon-->
 
 This is a Jarvis AI assistant to automate tasks using voice commands.
