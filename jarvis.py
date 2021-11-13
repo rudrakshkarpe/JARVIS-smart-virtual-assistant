@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
         elif 'open google' in quey:
             webbrowser.open("google.com")
-
+# this can be the best things that we can ever do to make sure this is the best moment in my life to avaoid and work along the workforce to make sure if this is what that can be avoided with some decent caution to make oneself sure
         elif 'open stackoverflow' in quey:
             webbrowser.open("stackoverflow.com")
 
