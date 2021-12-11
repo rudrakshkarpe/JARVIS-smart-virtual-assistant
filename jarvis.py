@@ -54,7 +54,8 @@ def sendEmail(to, content):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
-    server.login('rklogger0001@gmail.com', 'Rudraksh@143') # more secure method required
+    # more secure method required
+    server.login('rklogger0001@gmail.com', 'Rudraksh@143')
     server.sendmail('rklogger0001@gmail.com', to, content)
     server.close()
 
@@ -132,3 +133,4 @@ if __name__ == '__main__':
                 print(e)
                 speak("Sorry Master, unable to send the email at this moment")
 
+# let's redesign it!!!
