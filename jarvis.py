@@ -51,12 +51,12 @@ def takeCommand():
 
 
 def sendEmail(to, content):
-    server = smtplib.SMTP('smtp.gmail.com', 587)
+ rudrakshkarpe/RajasBharambe   server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
     # more secure method required
-    server.login('rklogger0001@gmail.com', 'Rudraksh@143')
-    server.sendmail('rklogger0001@gmail.com', to, content)
+    server.login('YOUR_MAIL_ADDRESS'PASSWORD FOR THE MAIL_ADDRESSS PROVIDED')
+    server.sendmail('YOUR_MAIL_ADDRESS', to, content)
     server.close()
 
 
