@@ -25,7 +25,7 @@ def wishMe():
         speak("Good Afternoon!")
     else:
         speak("Good Evening!")
-    speak("I am Jarvis. At your service master Rudraksh . How can I help you?")
+    speak("I am smart virtual assistant")
 
 
 def takeCommand():
@@ -51,12 +51,12 @@ def takeCommand():
 
 
 def sendEmail(to, content):
- rudrakshkarpe/RajasBharambe   server = smtplib.SMTP('smtp.gmail.com', 587)
+    server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
     # more secure method required
-    server.login('YOUR_MAIL_ADDRESS'PASSWORD FOR THE MAIL_ADDRESSS PROVIDED')
-    server.sendmail('YOUR_MAIL_ADDRESS', to, content)
+    server.login('rklogger0001@gmail.com', 'Rudraksh@143')
+    server.sendmail('rklogger0001@gmail.com', to, content)
     server.close()
 
 
@@ -131,4 +131,3 @@ if __name__ == '__main__':
             except Exception as e:
                 print(e)
                 speak("Sorry Master, unable to send the email at this moment")
-
