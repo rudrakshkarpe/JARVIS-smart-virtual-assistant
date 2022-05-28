@@ -74,7 +74,7 @@ if __name__ == '__main__':
             speak("According to wikipedia")
             print(results)
             speak(results)
-
+x
         elif 'open youtube' in quey:
             webbrowser.open("youtube.com")
 
