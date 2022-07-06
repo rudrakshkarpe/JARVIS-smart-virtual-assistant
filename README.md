@@ -1,5 +1,5 @@
-## ```smart Virtual Assistant```
+## ```Smart Virtual Assistant```
 ---
-- A python script to automate taks over voice commands.
+#### A Python script to automate taks over voice commands.
 
 ### Workflow
