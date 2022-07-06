@@ -1,4 +1,5 @@
-# updated verion coming soon-->
+## ```smart Virtual Assistant```
+---
+- A python script to automate taks over voice commands.
 
-- This is a Jarvis AI assistant to automate tasks using voice commands.
-### @rudrakshkarpe
+### Workflow
