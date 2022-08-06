@@ -1,4 +1,2 @@
-## ```Smart Virtual Assistant [JARVIS]```
-
-### A Python script to automate taks over voice commands.
+### _Automate your PC over voice commands_
 
