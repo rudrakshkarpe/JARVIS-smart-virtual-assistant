@@ -1,4 +1,4 @@
-Jarvis is a virtual desktop assitant that can automate your tasks using voice commands, the project intentions to automate the workflow of programmers or professionals who spend most of thier time in front of screen.
+### ```Jarvis``` is a virtual desktop assitant that can automate your tasks using voice commands, the project intentions to automate the workflow of programmers or professionals who spend most of thier time in front of screen.
 
 ## Features ⚙
 
