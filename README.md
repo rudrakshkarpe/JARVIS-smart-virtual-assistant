@@ -3,7 +3,7 @@
 ## Features ⚙
 
 - Play YouTube  + Song Name 🎶
-- Ask Question + ``` search on wikipedia`` 🔍
+- Ask Question + ``` search on wikipedia``` 🔍
 - Open Desired Application installed in the desktop 💻 ```requries to provide system path for the application```
 - Play Music ```song name```  🎧
 
