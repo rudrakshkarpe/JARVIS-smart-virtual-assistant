@@ -17,3 +17,6 @@
 ## Upcoming updates 
 
 - Desktop based application with GUI interface ✅
+
+## Feature related update
+- [Rudraksh Karpe](rudraksh.karpe@gmail.com)
