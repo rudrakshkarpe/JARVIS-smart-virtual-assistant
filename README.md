@@ -19,4 +19,4 @@
 - Desktop based application with GUI interface ✅
 
 ## Feature related update
-- [Contact us](rudraksh.karpe@gmail.com)
+  [Contact us](rudraksh.karpe@gmail.com)
