@@ -11,12 +11,13 @@
 ## Limited to 🚧
 
 - Terminal based interface 👩‍💻
-- Needs to run the script manually or you can set-up a path and access it through ```windows + R = RUN``` feature on windows 
+- Requires to run the script manually or you can set-up a path and access it through ```windows + R = RUN``` feature on windows 
 
 
 ## Upcoming updates 
 
 - Desktop based application with GUI interface ✅
+- Web based application [Deployment on Heroku may be :)]
 
 ## Feature related update
   [Contact us](rudraksh.karpe@gmail.com)
